@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@monaco-editor/react": "^4.6.0",
+    "monaco-editor": "^0.50.0",
+    "y-monaco": "^0.1.6",
+    "yjs": "^13.6.18",
+    "@hocuspocus/provider": "^2.13.5",
+    "@supabase/supabase-js": "^2.45.4",
+    "@supabase/auth-helpers-nextjs": "^0.10.0"
+  }
+}
